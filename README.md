@@ -1,2 +1,3 @@
 # flight_price_prediction
-#This project describe about the flight prediction model using regression models and python.
+A machine learning project that predicts airline ticket prices using Python,Regression Models ,Pandas, and Jupyter Notebook.
+
